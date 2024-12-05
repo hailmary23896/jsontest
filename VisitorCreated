@@ -1,0 +1,22 @@
+{
+  "app": {
+    "id": -323232,
+    "name": "test_application",
+    "platform": "web"
+  },
+  "accountId": "Webhook Account",
+  "subscription": {
+    "id": 4802463602049024,
+    "name": "test_application"
+  },
+  "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36",
+  "event": "visitorCreated",
+  "properties": {
+    "browserName": "Chrome",
+    "browserVersion": "91.0.4472",
+    "sampleGroup": 17
+  },
+  "timestamp": 1626803875,
+  "visitorId": "Webhook Visitor",
+  "uniqueId": "1a2c20ed531bf920781d7f1449968b772840e36c"
+}
